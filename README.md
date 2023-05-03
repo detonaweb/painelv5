@@ -7,7 +7,7 @@
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
-bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/ubuinst.sh)
+bash <(wget -qO- https://github.com/detonaweb/painelv5/raw/main/PainelWebV5/ubuinst.sh)
 ```
 
 # 🔑CHAVE DE INSTALAÇÃO:
@@ -19,7 +19,7 @@ bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWe
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/detonaweb/painelv5/raw/main/PainelWebV5/sincpainel.sh)
 ```
 
 # 🚀IMAGENS DO PAINEL:
